@@ -1,0 +1,93 @@
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  background-color: lightgrey;
+}
+h2,
+p,
+.readme-wrapper {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: red;
+}
+a:hover {
+  cursor: pointer;
+  font-weight: bold;
+  color: blue;
+}
+span {
+  color: yellow;
+  font-weight: 700;
+}
+.boxes {
+  margin: 2em;
+  padding: 2em;
+  border: 2px solid rgb(211, 131, 12);
+  border-radius: 2em;
+  width: 30em;
+  position: relative;
+  /*display: inline-block;*/
+}
+
+#box1 {
+  background-color: beige;
+}
+#box2 {
+  background-color: crimson;
+  /* position: relative;
+   position: absolute;
+    bottom: 325px;
+    left: 575px;*/
+}
+#box3 {
+  background-color: darkblue;
+}
+#box4 {
+  background-color: violet;
+}
+.image-file {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: #c49b9b;
+  position: absolute;
+  top: 40px;
+  left: 0px;
+}
+h1 {
+  color: brown;
+}
+.original {
+  color: purple;
+}
+.additional {
+  color: green;
+}
+#Num1 {
+  color: blue;
+}
+#Num2 {
+  color: red;
+}
+#Num3 {
+  color: yellow;
+}
+#Num4 {
+  color: green;
+}
+#Num5 {
+  color: orange;
+}
+ul {
+  color: whitesmoke;
+}
+.star {
+  color: blueviolet;
+}
+#wars {
+  color: black;
+}
+.list-block {
+  border: 2px solid black;
+}
